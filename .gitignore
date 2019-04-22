@@ -1,0 +1,5 @@
+# Don't wanna spill our actual RSVP data
+original_data
+# jupyter ipynb_checkpoints
+.ipynb_checkpoints
+
