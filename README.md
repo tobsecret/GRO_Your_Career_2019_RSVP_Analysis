@@ -12,4 +12,4 @@ The conference was organized by graduate students from:
 * TRI-I
 
 We used analysis of the RSVP data to understand which communities we needed to advertise to more.
-Have a look at the **notebook** for the main takeaways of the [analysis](GRO_2019_04_22_RSVP_stats.html).
+Have a look at the **notebook** for the main takeaways of the [analysis](GRO_2019_04_22_RSVP_stats.md).
